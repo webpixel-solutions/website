@@ -16,13 +16,13 @@ const Footer = () => {
           </a>
           <div className="mt-6 lg:max-w-sm">
             <p className="text-sm text-gray-800">
-              Flicker Fantasy is a Private theater and celebration space. We provide our guests with a premium theater experience so they can watch their favorite movies and shows, celebrate special
-              occasions, and create lasting memories.
+              At WebPixel Solution, we understand that every business is unique, and we take pride in our ability to tailor our services to meet the specific requirements and objectives of each
+              client. Whether it's developing a responsive and visually stunning website, creating engaging digital marketing campaigns, or implementing robust e-commerce solutions, we leverage the
+              latest technologies and best practices to deliver results that exceed expectations.
             </p>
             <p className="mt-4 text-sm text-gray-800">
-              The theater is located in Vijayanagar, Bangalore's heart. Whether it's a birthday, anniversary, marriage proposal, a special day surprise for a loved one, or a relaxing movie night,
-              everything from decorations, cakes, snacks, and drinks to make you feel special in complete privacy. We will make the best arrangements for your event. It's time to watch your favorite
-              Movie
+              Our approach is centered around collaboration and innovation. We work closely with our clients to understand their vision, goals, and challenges, allowing us to develop customized
+              solutions that not only address their immediate needs but also pave the way for long-term success in the ever-evolving digital landscape.
             </p>
           </div>
         </div>
@@ -33,7 +33,7 @@ const Footer = () => {
               <p className="mr-1 text-gray-800">Phone:</p>
             </strong>
             <a href="tel:850-123-5021" aria-label="Our phone" title="Our phone" className="transition-colors duration-300 text-deep-purple-accent-400 hover:text-deep-purple-800">
-              +917019693927
+              +917898227938
             </a>
           </div>
           <div className="flex">
@@ -41,7 +41,7 @@ const Footer = () => {
               <p className="mr-1 text-gray-800">Email:</p>
             </strong>
             <a href="mailto:info@lorem.mail" aria-label="Our email" title="Our email" className="transition-colors duration-300 text-deep-purple-accent-400 hover:text-deep-purple-800">
-              flickerfantasy1@gmail.com
+              solutionswebpixel@gmail.com
             </a>
           </div>
           <div className="flex">
@@ -53,7 +53,7 @@ const Footer = () => {
               title="Our address"
               className="transition-colors duration-300 text-deep-purple-accent-400 hover:text-deep-purple-800"
             >
-              595, Govindaraja Nagar Ward, MC Layout, Bengaluru, Karnataka 560040
+              Address line 1, Address line 2, Bengaluru, Karnataka 560040
             </a>
           </div>
         </div>
@@ -83,18 +83,14 @@ const Footer = () => {
         </div>
       </div>
       <div className="flex flex-col-reverse justify-between pt-5 pb-10 border-t lg:flex-row">
-        <p className="text-sm text-gray-600">© Copyright 2024 Flicker Fantasy. All rights reserved.</p>
+        <p className="text-sm text-gray-600">© Copyright 2024 WebPixel Solutions. All rights reserved.</p>
         <ul className="flex flex-col mb-3 space-y-2 lg:mb-0 sm:space-y-0 sm:space-x-5 sm:flex-row">
           <li>
             <a href="/faq" className="text-sm text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400">
               F.A.Q
             </a>
           </li>
-          <li>
-            <a href="/refund" className="text-sm text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400">
-              Refund Policy
-            </a>
-          </li>
+
           <li>
             <a href="/terms" className="text-sm text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400">
               Terms &amp; Conditions

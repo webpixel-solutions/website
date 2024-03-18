@@ -9,8 +9,8 @@ const Navbar = () => {
         <Link to="/" className="flex items-center space-x-3 rtl:space-x-reverse">
           <img src={logo} className="h-24" alt="Flowbite Logo" />
           <div>
-            <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">Flicker Fantasy</span>
-            <p className="text-sm text-gray-500">Private theater & celebration space</p>
+            <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">WebPixel Solutions</span>
+            <p className="text-sm text-gray-500">Pixels to Perfection</p>
           </div>
         </Link>
         <button
@@ -57,15 +57,6 @@ const Navbar = () => {
                 activeClassName="bg-blue-700"
               >
                 FAQ
-              </NavLink>
-            </li>
-            <li>
-              <NavLink
-                to="/terms"
-                className="block py-2 px-3 text-white bg-blue-700 rounded md:bg-transparent md:text-blue-700 md:p-0 dark:text-white md:dark:text-blue-500"
-                activeClassName="bg-blue-700"
-              >
-                Terms & Conditions
               </NavLink>
             </li>
           </ul>
