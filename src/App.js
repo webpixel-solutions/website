@@ -6,20 +6,19 @@ import About from "./Components/About/About";
 import Contact from "./Components/Contact/Contact";
 import "./App.css";
 import Faq from "./Components/FAQ/Faq";
+import Home from "./Components/Home/Home";
 
 export default function App() {
   return (
     <Router>
       <div className="App">
         <Navbar />
+        <Route exact path="/" component={Home} />
         <Route path="/about" component={About} />
         <Route path="/contact" component={Contact} />
         <Route path="/faq" component={Faq} />
 
         <Footer />
-        <a href="https://wa.me/917019693927" className="whatsapp_float" target="_blank" rel="noopener noreferrer">
-          <i className="fa fa-whatsapp whatsapp-icon"></i>
-        </a>
       </div>
     </Router>
   );
