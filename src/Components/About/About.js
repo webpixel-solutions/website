@@ -29,15 +29,15 @@ const About = () => {
           <div className="md:w-1/2 mb-4 md:mb-0">
             <h2 className="text-3xl font-semibold text-gray-800 mb-4">Our Mission</h2>
             <p className="text-sm text-gray-700 leading-relaxed">
-              At Webpixel Solutions, our mission is to empower businesses of all sizes to thrive in the digital era by providing them with innovative, tailor-made Web & Mobile Apps Development
-              solutions that drive growth, efficiency, and success. We are committed to delivering exceptional value to our clients through our unwavering dedication to quality, integrity, and
-              customer satisfaction. Our mission is to leverage cutting-edge technologies, best practices, and industry expertise to deliver transformative digital experiences that surpass
+              At <strong>Webpixel Solutions</strong>, our mission is to empower businesses of all sizes to thrive in the digital era by providing them with innovative, tailor-made Web & Mobile Apps
+              Development solutions that drive growth, efficiency, and success. We are committed to delivering exceptional value to our clients through our unwavering dedication to quality, integrity,
+              and customer satisfaction. Our mission is to leverage cutting-edge technologies, best practices, and industry expertise to deliver transformative digital experiences that surpass
               expectations and unlock new opportunities for our clients. With a relentless focus on innovation, collaboration, and continuous improvement, we strive to be at the forefront of
               technological advancement, driving positive change and creating lasting impact in the digital ecosystem. Our mission is not just to build great products, but to empower businesses to
               achieve their goals, realize their visions, and shape a brighter future for themselves and their customers
             </p>
             <strong>What makes WebPixel solutions different?</strong>
-            <p>
+            <p className="text-sm text-gray-700 leading-relaxed">
               At Webpixel Solutions we provide all your digital needs under one roof. We deliver top-quality UI/UX designs and comply with quality standards. Whether you are a start-up or a large
               enterprise in an industry, we have the expertise and innovative approach to assist you. Our team of highly motivated, result-driven professionals creates effective strategies for
               developing products. We helped our clients achieve their business objectives with our strategically developed products. As part of our development and design process, we ensure in-depth
